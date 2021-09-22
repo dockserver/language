@@ -1,0 +1,15 @@
+{
+  "update": {
+    "update.rclonestart": "-> update rclone || start <-",
+    "update.rcloneend": "-> update rclone || done <-",
+    "update.packagesstart": "-> update packages || start <-",
+    "update.packagesend": "-> update packages || done <-"
+  },
+  "startup": {
+    "startup.mount": "-> starting mounts part <-",
+    "startup.hitlimit": "Beware you have hit the download quota limit",
+    "startup.newchanges": "Found new changes in ${file1} || rclone drop and rebuild runs",
+    "startup.rcloneworks": "-> rclone is running and working <-",
+    "startup.mergerfsworks": "-> mergerfs is running and working <-"
+  }
+}
