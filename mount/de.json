@@ -1,0 +1,15 @@
+{
+  "update": {
+    "update.rclonestart": "-> rclone aktualisierung || startet <-",
+    "update.rcloneend": "-> rclone aktualisierung || erledigt <-",
+    "update.packagesstart": "-> Paket aktualisierung || startet <-",
+    "update.packagesend": "-> Paket aktualisierung || erledigt <-"
+  },
+  "startup": {
+    "startup.mount": "-> Starte Mount <-",
+    "startup.hitlimit": "Beachten Sie, dass Sie das Download-Quota-Limit erreicht haben",
+    "startup.newchanges": "neue Änderungen in mount.env gefunden || rclone drop und rebuild läuft",
+    "startup.rcloneworks": "-> rclone läuft und funktioniert <-",
+    "startup.mergerfsworks": "-> mergerfs läuft und funktioniert <-"
+  }
+}
