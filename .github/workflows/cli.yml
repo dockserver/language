@@ -21,7 +21,7 @@ jobs:
           fetch-depth: '0'
 
       - name: Bump version and push tag
-        uses: ChloePlanet/github-tag-action@2.0.0
+        uses: ChloePlanet/github-tag-action@2.0.3
         with:
           body: ${{steps.github_release.outputs.changelog}}
         env:
