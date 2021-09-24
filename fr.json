@@ -1,0 +1,15 @@
+   {
+  "update": {
+    "update.rclonestart": "-> mise a jour de rclone || démarrage <-",
+    "update.rcloneend": "-> mise a jour de rclone || terminé <-",
+    "update.packagesstart": "-> mise a jour des paquets linux || démarrage <-",
+    "update.packagesend": "-> mise a jour des paquets linux || terminé <-"
+  },
+  "startup": {
+    "startup.mount": "-> Mise en place du montage de fichiers <-",
+    "startup.hitlimit": "Attention, vous avez atteint la limite du quota de téléchargement",
+    "startup.newchanges": "Changements détectés dans mount.env || Rclone va maintenant se recompiler",
+    "startup.rcloneworks": "-> rclone est en cours d'exécution et fonctionne <-",
+    "startup.mergerfsworks": "-> mergerfs est en marche et fonctionne <-"
+  }
+}
