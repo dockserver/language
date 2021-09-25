@@ -8,7 +8,7 @@
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#3](https://github.com/dockserver/language/pull/3) in [dockserver/language](https://github.com/dockserver/language)
+1. ❌ Closed PR [#7](https://github.com/dockserver/language/pull/7) in [dockserver/language](https://github.com/dockserver/language)
 <!--END_SECTION:activity-->
 
 ----
