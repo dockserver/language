@@ -10,6 +10,7 @@
     "startup.hitlimit": "Beachten Sie, dass Sie das Download-Quota-Limit erreicht haben",
     "startup.newchanges": "neue Änderungen in mount.env gefunden || rclone drop und rebuild läuft",
     "startup.rcloneworks": "-> rclone läuft und funktioniert <-",
-    "startup.mergerfsworks": "-> mergerfs läuft und funktioniert <-"
+    "startup.mergerfsworks": "-> mergerfs läuft und funktioniert <-",
+    "startup.rotate": "-> Wir haben den rclone 🔑 gewechselt <-"
   }
 }

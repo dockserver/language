@@ -10,6 +10,7 @@
     "startup.hitlimit": "Attention, vous avez atteint la limite du quota de téléchargement",
     "startup.newchanges": "Changements détectés dans mount.env || Rclone va maintenant se recompiler",
     "startup.rcloneworks": "-> rclone est en cours d'exécution et fonctionne <-",
-    "startup.mergerfsworks": "-> mergerfs est en marche et fonctionne <-"
+    "startup.mergerfsworks": "-> mergerfs est en marche et fonctionne <-",
+    "startup.rotate": "-> We have switched the mount 🔑 <-"
   }
 }
