@@ -11,5 +11,6 @@
     "startup.newchanges": "Found new changes in mount.env || rclone drop and rebuild runs",
     "startup.rcloneworks": "-> rclone is running and working <-",
     "startup.mergerfsworks": "-> mergerfs is running and working <-"
+    "startup.rotate": "-> We have switched the mount 🔑 <-"
   }
 }
