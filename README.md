@@ -8,7 +8,7 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#8](https://github.com/dockserver/language/pull/8) in [dockserver/language](https://github.com/dockserver/language)
+1. 🎉 Merged PR [#234](https://github.com/dockserver/dockserver/pull/234) in [dockserver/dockserver](https://github.com/dockserver/dockserver)
 <!--END_SECTION:activity-->
 
 ----
