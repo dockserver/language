@@ -7,7 +7,7 @@
   },
   "startup": {
     "startup.mount": "-> Starte Mount <-",
-    "startup.hitlimit": "Beachten Sie, dass Sie das Download-Quota-Limit erreicht haben",
+    "startup.hitlimit": "Beachten Sie, dass Sie die Google API-Limits erreicht haben",
     "startup.newchanges": "neue Änderungen in mount.env gefunden || rclone drop und rebuild läuft",
     "startup.rcloneworks": "-> rclone läuft und funktioniert <-",
     "startup.mergerfsworks": "-> mergerfs läuft und funktioniert <-",
