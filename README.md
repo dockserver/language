@@ -8,7 +8,7 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#252](https://github.com/dockserver/dockserver/issues/252) in [dockserver/dockserver](https://github.com/dockserver/dockserver)
+1. 💪 Opened PR [#253](https://github.com/dockserver/dockserver/pull/253) in [dockserver/dockserver](https://github.com/dockserver/dockserver)
 <!--END_SECTION:activity-->
 
 ----
