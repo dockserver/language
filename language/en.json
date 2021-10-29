@@ -1,0 +1,49 @@
+{
+  "update": {
+    "update.rclonestart": "-> update rclone || start <-",
+    "update.rcloneend": "-> update rclone || done <-",
+    "update.packagesstart": "-> update packages || start <-",
+    "update.packagesend": "-> update packages || done <-"
+  },
+  "checkdrive": {
+    "checkdrive.start": "-> Check Drive Stored || starts <-",
+    "checkdrive.drive": "is runnig for Drive",
+    "checkdrive.done": "-> Check Drive Stored || done <-",
+  },
+  "limitreached": {
+    "limitreached.lineone": "YOU HIT THE MAXIMAL STORED FILES ON SHARED DRIVE",
+    "limitreached.linetwo": "WE HAVE STOPED THE UPLOADER NOW"
+  },
+  "startup": {
+    "startup.uploader": "-> DockServer.io Docker Uploader started <-",
+    "startup.clean": "-> Cleaned up left over",
+    "startup.backup": "-> Backups found || starting uploader",
+    "startup.sleepstart": "sleeping until",
+    "startup.sleepend": "m is reached",
+    "startup.percentstart": "Percentage of Drive used is not reached || sleeping 30 secs now",
+    "startup.percentend": "Percentage of Drive used is reached started now uploading",
+    "startup.upload": "Starting upload of",
+    "startup.bigger": "File is still getting bigger",
+    "startup.storedfile": "Stored Files is now",
+    "startup.gdsachange": "is now",
+    "startup.dissapeared": "File seems to have dissapeared",
+    "startup.maxtransfer:" "Already the maximum of transfers running, waiting for next loop",
+    "startup.finishupload:" "Finished looking for files, sleeping 5 secs",
+    "startup.nothinguplpad": "Nothing to upload or file age is not reached, sleeping 5 secs",
+    "startup.mount": "-> starting mounts part <-",
+    "startup.hitlimit": "Beware you have hit the Google Api limits",
+    "startup.newchanges": "Found new changes in mount.env || rclone drop and rebuild runs",
+    "startup.rcloneworks": "-> rclone is running and working <-",
+    "startup.mergerfsworks": "-> mergerfs is running and working <-",
+    "startup.rotate": "-> We have switched the mount 🔑 <-"
+  },
+  "uploader": {
+    "uploader.start": "Upload started for $FILE using $GDSA to ${DRIVE}",
+    "uploader.fileto": "Uploading ${FILE} to ${REMOTE}",
+    "uploader.end": "Upload complete for $FILE, Upload queue : ${LEFTTOUPLOAD}Bytes || Percent used: ${DRIVEPERCENT}% ,Cleaning up"
+  },
+  "discord": {
+    "discord.send": "-> Discord Send <-",
+    "discord.send": "-> Discord Send <-"
+  }
+}
