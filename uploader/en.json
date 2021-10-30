@@ -8,7 +8,7 @@
   "checkdrive": {
     "checkdrive.start": "-> Check Drive Stored || starts <-",
     "checkdrive.drive": "is runnig for Drive",
-    "checkdrive.done": "-> Check Drive Stored || done <-",
+    "checkdrive.done": "-> Check Drive Stored || done <-"
   },
   "limitreached": {
     "limitreached.lineone": "YOU HIT THE MAXIMAL STORED FILES ON SHARED DRIVE",

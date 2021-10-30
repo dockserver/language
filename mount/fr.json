@@ -1,4 +1,4 @@
-   {
+{
   "update": {
     "update.rclonestart": "-> mise a jour de rclone || démarrage <-",
     "update.rcloneend": "-> mise a jour de rclone || terminé <-",
