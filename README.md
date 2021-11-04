@@ -8,7 +8,7 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#6](https://github.com/dockserver/update/issues/6) in [dockserver/update](https://github.com/dockserver/update)
+1. 🎉 Merged PR [#6](https://github.com/dockserver/update/pull/6) in [dockserver/update](https://github.com/dockserver/update)
 <!--END_SECTION:activity-->
 
 ----
