@@ -8,7 +8,7 @@
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Opened issue [#273](https://github.com/dockserver/dockserver/issues/273) in [dockserver/dockserver](https://github.com/dockserver/dockserver)
+1. ❗️ Closed issue [#272](https://github.com/dockserver/dockserver/issues/272) in [dockserver/dockserver](https://github.com/dockserver/dockserver)
 <!--END_SECTION:activity-->
 
 ----
