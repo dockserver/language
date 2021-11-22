@@ -6,7 +6,7 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#11](https://github.com/dockserver/auto-replyarr/issues/11) in [dockserver/auto-replyarr](https://github.com/dockserver/auto-replyarr)
+1. 🎉 Merged PR [#11](https://github.com/dockserver/auto-replyarr/pull/11) in [dockserver/auto-replyarr](https://github.com/dockserver/auto-replyarr)
 <!--END_SECTION:activity-->
 
 ----
