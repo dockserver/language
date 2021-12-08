@@ -6,7 +6,7 @@
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#314](https://github.com/dockserver/dockserver/pull/314) in [dockserver/dockserver](https://github.com/dockserver/dockserver)
+1. 🗣 Commented on [#10](https://github.com/dockserver/container/issues/10) in [dockserver/container](https://github.com/dockserver/container)
 <!--END_SECTION:activity-->
 
 ----
