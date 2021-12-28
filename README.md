@@ -6,7 +6,7 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#28](https://github.com/dockserver/container/issues/28) in [dockserver/container](https://github.com/dockserver/container)
+1. 🎉 Merged PR [#28](https://github.com/dockserver/container/pull/28) in [dockserver/container](https://github.com/dockserver/container)
 <!--END_SECTION:activity-->
 
 ----
