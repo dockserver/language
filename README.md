@@ -6,7 +6,7 @@
 
 <!--START_SECTION:activity-->
 
-1. ❌ Closed PR [#332](https://github.com/dockserver/dockserver/pull/332) in [dockserver/dockserver](https://github.com/dockserver/dockserver)
+1. 💪 Opened PR [#47](https://github.com/dockserver/container/pull/47) in [dockserver/container](https://github.com/dockserver/container)
 <!--END_SECTION:activity-->
 
 ----
