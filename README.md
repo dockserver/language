@@ -6,7 +6,7 @@
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Opened issue [#337](https://github.com/dockserver/dockserver/issues/337) in [dockserver/dockserver](https://github.com/dockserver/dockserver)
+1. ❌ Closed PR [#51](https://github.com/dockserver/container/pull/51) in [dockserver/container](https://github.com/dockserver/container)
 <!--END_SECTION:activity-->
 
 ----
