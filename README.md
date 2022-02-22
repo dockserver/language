@@ -6,7 +6,7 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#401](https://github.com/dockserver/dockserver/issues/401) in [dockserver/dockserver](https://github.com/dockserver/dockserver)
+1. ❗️ Closed issue [#401](https://github.com/dockserver/dockserver/issues/401) in [dockserver/dockserver](https://github.com/dockserver/dockserver)
 <!--END_SECTION:activity-->
 
 ----
