@@ -2,13 +2,11 @@
 
 
 
-
-
 ## Latest Changes 🎉
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#263](https://github.com/dockserver/dockserver/pull/263) in [dockserver/dockserver](https://github.com/dockserver/dockserver)
+1. 🎉 Merged PR [#418](https://github.com/dockserver/dockserver/pull/418) in [dockserver/dockserver](https://github.com/dockserver/dockserver)
 <!--END_SECTION:activity-->
 
 ----
@@ -20,15 +18,36 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
+
+### Contributors
+
 <table>
-  <tr>
-    <td align="center"><a href="https://github.com/doob187"><img src="https://avatars.githubusercontent.com/u/60312740?v=4?s=100" width="100px;" alt=""/><br /><sub><b>doob187</b></sub></a><br /><a href="https://github.com/dockserver/language/commits?author=doob187" title="Code">💻</a></td>
-    <td align="center"><a href="https://github.com/DrAg0n141"><img src="https://avatars.githubusercontent.com/u/44865095?v=4?s=100" width="100px;" alt=""/><br /><sub><b>DrAg0n141</b></sub></a><br /><a href="https://github.com/dockserver/language/commits?author=DrAg0n141" title="Code">💻</a></td>
-    <td align="center"><a href="https://github.com/dan3805"><img src="https://avatars.githubusercontent.com/u/35934387?v=4?s=100" width="100px;" alt=""/><br /><sub><b>dan3805</b></sub></a><br /><a href="https://github.com/dockserver/language/commits?author=dan3805" title="Code">💻</a></td>
-  </tr>
+<tr>
+    <td align="center" style="word-wrap: break-word; width: 75.0; height: 75.0">
+        <a href=https://github.com/doob187>
+            <img src=https://avatars.githubusercontent.com/u/60312740?v=4 width="50;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=doob187/>
+            <br />
+            <sub style="font-size:14px"><b>doob187</b></sub>
+        </a>
+    </td>
+    <td align="center" style="word-wrap: break-word; width: 75.0; height: 75.0">
+        <a href=https://github.com/dan3805>
+            <img src=https://avatars.githubusercontent.com/u/35934387?v=4 width="50;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=dan3805/>
+            <br />
+            <sub style="font-size:14px"><b>dan3805</b></sub>
+        </a>
+    </td>
+    <td align="center" style="word-wrap: break-word; width: 75.0; height: 75.0">
+        <a href=https://github.com/renovate-bot>
+            <img src=https://avatars.githubusercontent.com/u/25180681?v=4 width="50;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=WhiteSource Renovate/>
+            <br />
+            <sub style="font-size:14px"><b>WhiteSource Renovate</b></sub>
+        </a>
+    </td>
+</tr>
 </table>
+
 
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
-
 <!-- ALL-CONTRIBUTORS-LIST:END -->

@@ -8,7 +8,7 @@
   "checkdrive": {
     "checkdrive.start": "-> Check Drive Stored || starts <-",
     "checkdrive.drive": "is runnig for Drive",
-    "checkdrive.done": "-> Check Drive Stored || done <-",
+    "checkdrive.done": "-> Check Drive Stored || done <-"
   },
   "limitreached": {
     "limitreached.lineone": "YOU HIT THE MAXIMAL STORED FILES ON SHARED DRIVE",
@@ -27,8 +27,8 @@
     "startup.storedfile": "Stored Files is now",
     "startup.gdsachange": "is now",
     "startup.dissapeared": "File seems to have dissapeared",
-    "startup.maxtransfer:" "Already the maximum of transfers running, waiting for next loop",
-    "startup.finishupload:" "Finished looking for files, sleeping 5 secs",
+    "startup.maxtransfer": "Already the maximum of transfers running, waiting for next loop",
+    "startup.finishupload": "Finished looking for files, sleeping 5 secs",
     "startup.nothinguplpad": "Nothing to upload or file age is not reached, sleeping 5 secs"
   },
   "uploader": {
