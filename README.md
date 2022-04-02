@@ -6,7 +6,7 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#442](https://github.com/dockserver/dockserver/pull/442) in [dockserver/dockserver](https://github.com/dockserver/dockserver)
+1. 🗣 Commented on [#444](https://github.com/dockserver/dockserver/issues/444) in [dockserver/dockserver](https://github.com/dockserver/dockserver)
 <!--END_SECTION:activity-->
 
 ----
